@@ -43,7 +43,7 @@
             this.btnEnter.ForeColor = System.Drawing.Color.Black;
             this.btnEnter.Location = new System.Drawing.Point(211, 183);
             this.btnEnter.Name = "btnEnter";
-            this.btnEnter.Size = new System.Drawing.Size(122, 36);
+            this.btnEnter.Size = new System.Drawing.Size(124, 46);
             this.btnEnter.TabIndex = 2;
             this.btnEnter.Text = "Enter";
             this.btnEnter.UseVisualStyleBackColor = false;
@@ -95,7 +95,7 @@
             this.btnExit.ForeColor = System.Drawing.Color.Black;
             this.btnExit.Location = new System.Drawing.Point(66, 183);
             this.btnExit.Name = "btnExit";
-            this.btnExit.Size = new System.Drawing.Size(122, 36);
+            this.btnExit.Size = new System.Drawing.Size(139, 46);
             this.btnExit.TabIndex = 3;
             this.btnExit.Text = "Exit";
             this.btnExit.UseVisualStyleBackColor = false;
