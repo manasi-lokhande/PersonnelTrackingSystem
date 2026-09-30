@@ -133,7 +133,7 @@ Transfers data between different layers of the application.
 
 ### 📋 Task Management
 
-![Task Management](screenshot/Task_List.png)
+![Task Management](screenshot/Task_Form.png)
 
 ### 💰 Salary Management
 
