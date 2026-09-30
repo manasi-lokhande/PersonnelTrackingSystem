@@ -117,39 +117,39 @@ Transfers data between different layers of the application.
 
 ### 🔐 Login
 
-![Login](screenshots/Login.png)
+![Login](screenshot/Login.png)
 
 ### 🏠 Main Dashboard
 
-![Main Dashboard](screenshots/MainForm.png)
+![Main Dashboard](screenshot/MainForm.png)
 
 ### 👨‍💼 Employee List
 
-![Employee List](screenshots/Employee_List.png)
+![Employee List](screenshot/Employee_List.png)
 
 ### ➕ Employee Form
 
-![Employee Form](screenshots/Employee_Form.png)
+![Employee Form](screenshot/Employee_Form.png)
 
 ### 📋 Task Management
 
-![Task Management](screenshots/Task_List.png)
+![Task Management](screenshot/Task_List.png)
 
 ### 💰 Salary Management
 
-![Salary Management](screenshots/Salary_List.png)
+![Salary Management](screenshot/Salary_List.png)
 
 ### 📝 Permission Form
 
-![Permission Form](screenshots/Permission_Form.png)
+![Permission Form](screenshot/Permission_Form.png)
 
 ### ✅ Permission Management
 
-![Permission Management](screenshots/Permission_List.png)
+![Permission Management](screenshot/Permission_List.png)
 
 ### 🏢 Department Management
 
-![Department Management](screenshots/Department_List.png)
+![Department Management](screenshot/Department_List.png)
 
 ## 🗃️ Database
 
