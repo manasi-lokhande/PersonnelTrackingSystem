@@ -79,10 +79,6 @@ The project follows a layered architecture using **UI, BLL, DAL, and DTO** compo
 - Foreign key relationships
 
 ## 🏗️ Project Architecture
-
-```text
-## 🏗️ Project Architecture
-
 ```text
 PersonnelTrackingSystem
 │
@@ -94,8 +90,6 @@ PersonnelTrackingSystem
 │
 ├── DAL
 │   └── Data Access Layer
-│
-└── DTO
     └── Data Transfer Objects
 ```
 
